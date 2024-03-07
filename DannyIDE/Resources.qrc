@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>Resources/Edit.ico</file>
+        <file>Resources/Run.ico</file>
+        <file>Resources/Status_Edit.ico</file>
+        <file>Resources/Status_Error.ico</file>
+        <file>Resources/Status_OK.ico</file>
+        <file>Resources/Console.ico</file>
+        <file>Resources/Setting.ico</file>
+        <file>Resources/icon.JPG</file>
+    </qresource>
+</RCC>
